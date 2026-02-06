@@ -1,10 +1,10 @@
 # animataion_sample
 
 A new Flutter project.
+### Sample 1
+<img src ="https://github.com/Mirzaazmath/flutter_animation_samples/blob/main/output/output1.gif" height ="400">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
