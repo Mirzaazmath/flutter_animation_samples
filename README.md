@@ -1,4 +1,4 @@
-# animataion_sample
+# animation_sample
 
 A new Flutter project.
 ### Sample 1
