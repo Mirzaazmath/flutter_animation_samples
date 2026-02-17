@@ -24,6 +24,11 @@ class _Sample6State extends State<Sample6> with SingleTickerProviderStateMixin {
     ).animate(controller);
     super.initState();
   }
+  @override
+  void dispose() {
+    controller.dispose();
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {

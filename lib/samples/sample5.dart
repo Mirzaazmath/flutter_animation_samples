@@ -34,7 +34,11 @@ class _Sample5State extends State<Sample5> with SingleTickerProviderStateMixin {
     });
     super.initState();
   }
-
+@override
+  void dispose() {
+  controller.dispose();
+    super.dispose();
+  }
   @override
   Widget build(BuildContext context) {
     return Scaffold(
