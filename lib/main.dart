@@ -4,7 +4,8 @@ import 'package:animation_sample/samples/sample3.dart';
 import 'package:animation_sample/samples/sample5.dart';
 import 'package:animation_sample/samples/sample6.dart';
 import 'package:animation_sample/samples/sample7.dart';
-import 'package:animation_sample/samples/smaple4.dart';
+import 'package:animation_sample/samples/sample4.dart';
+import 'package:animation_sample/samples/sample8.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,6 +17,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: Sample7());
+    return MaterialApp(home: Sample8());
   }
 }
